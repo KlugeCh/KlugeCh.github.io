@@ -4,11 +4,11 @@
 >
 > * **only use git and BASH for editing, commiting, pushing**
 > 
->OB #### criterias to be fullfilled:
+> #### criterias to be fullfilled:
 >
 > * file must be created and formated in markdown
 > * file must contain a few external links
-> * file must contain at least one image from own repository
+> * file must contain at least one image
 
 
 
