@@ -36,3 +36,11 @@
 
 
 ![Rizzo](https://user-images.githubusercontent.com/71644352/94336770-d850f780-ffe5-11ea-880c-f589ed3b65e5.jpg)
+
+
+
+
+![rizzo](https://github.com/KlugeCh/KlugeCh.github.io/blob/master/Rizzo.jpg)
+
+
+* in-line link added from repo
